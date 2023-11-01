@@ -6,7 +6,7 @@ Then, I looked at alternative drawing techniques, to tackle everyday stress.
 
 So here are some drawing techniques and how they help. Some different and more expressive with the body than others.
 
-## Unusual Drawing Experiences
+## Drawing Experiences
 ### Unusual Drawing Experiences
 - Drawing with your hands in the air
 - Drawing with a pen in your elbow
