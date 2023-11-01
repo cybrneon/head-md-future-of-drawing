@@ -5,6 +5,9 @@ I started researching the subject of everyday stress, stress in general, chronic
 Then, I looked at alternative drawing techniques, to tackle everyday stress.
 
 ## Drawing Experiences
+
+> You can find my Mind Map and Interview Process on my [Figjam board](https://www.figma.com/file/ohNOqJvYwTzFk34S5s9SKd/Atelier-MD1---Mind-Map-%2B-Field-Research?type=whiteboard&node-id=93%3A457&t=TbDTdXIz9qEikPVk-1).
+
 ### Unusual Drawing Experiences
 - Drawing with your hands in the air
 - Drawing with a pen in your elbow
@@ -17,7 +20,6 @@ Then, I looked at alternative drawing techniques, to tackle everyday stress.
 - Blindfold drawing, drawing a specific object or scene from memory
 - Breathing Patterns, syncing inhaling and exhaling with line drawings for ex
 - Drawing with your non-dominant hand
-
 
 ## Interview Process
 More importantly, I wanted to learn about people's techniques, if they had some. That's why I wrote questions that I then asked to different people in a face-to-face interview.
@@ -38,9 +40,9 @@ One of the other interessting aspects is the fact that one person talked about h
 Others talked about how they hate temporary solutions, which is understandable because I don't like them either.
 
 #### Some Images
-![String Art](/process/2023-10-19/20231019_123334001_iOS.jpeg)
-![String Art](/process/2023-10-19/20231019_123512933_iOS.jpeg)
-![Drawing with your non-dominant hand](/process/2023-10-19/20231019_130830379_iOS.jpeg)
+![String Art](/process/2023-10-19_20/20231019_123334001_iOS.jpeg)
+![String Art](/process/2023-10-19_20/20231019_123512933_iOS.jpeg)
+![Drawing with your non-dominant hand](/process/2023-10-19_20/20231019_130830379_iOS.jpeg)
 
 
 ## Aftermath of First Insights Presentation
