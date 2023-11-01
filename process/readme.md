@@ -1,6 +1,6 @@
 # The Process
 
-> <em>Trust the process <em>
+> <em> "Trust the process" </em> - Random Person, Unknown Date
 
 ## Table of Contents
 Take a look at my process here:
