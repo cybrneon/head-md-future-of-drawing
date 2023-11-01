@@ -40,9 +40,9 @@ One of the other interessting aspects is the fact that one person talked about h
 Others talked about how they hate temporary solutions, which is understandable because I don't like them either.
 
 #### Some Images
-![String Art](/process/field-research/20231019_123334001_iOS.jpeg)
-![String Art](/process/field-research/20231019_123512933_iOS.jpeg)
-![Drawing with your non-dominant hand](/process/field-research/20231019_130830379_iOS.jpeg)
+![String Art](/process/2023-10-19/20231019_123334001_iOS.jpeg)
+![String Art](/process/2023-10-19/20231019_123512933_iOS.jpeg)
+![Drawing with your non-dominant hand](/process/2023-10-19/20231019_130830379_iOS.jpeg)
 
 
 ## Aftermath of First Insights Presentation
@@ -64,17 +64,17 @@ At first, I drew the following cards:
 
 I then made an interactive Captcha machine that asks you to draw something on it to confirm you're human, with a voice that asks you why you're drawing things the way you're drawing them and not giving any emotion.
 
-![Captcha Machine](/process/paper-prototyping/20231025_130053381_iOS.jpeg)
-![Captcha Machine](/process/paper-prototyping/20231025_130104790_iOS.jpeg)
-![Captcha Machine](/process/paper-prototyping/20231025_130112993_iOS.jpeg)
-![Captcha Machine](/process/paper-prototyping/20231025_130137430_iOS.jpeg)
+![Captcha Machine](/process/2023-10-25/20231025_130053381_iOS.jpeg)
+![Captcha Machine](/process/2023-10-25/20231025_130104790_iOS.jpeg)
+![Captcha Machine](/process/2023-10-25/20231025_130112993_iOS.jpeg)
+![Captcha Machine](/process/2023-10-25/20231025_130137430_iOS.jpeg)
 
 ## Experimentation
 We then started to imagine interactions and paper experiments with our subjects. I didn't know how or where to start, so I came back to the cards and drew ones that I then executed into paper prototypes.
 
-![Little Cute Copilot](/process/paper-prototyping/20231026_115851675_iOS.jpeg)
-![Tamagotchi-like Drawing Experience Generator](/process/paper-prototyping/20231026_115932319_iOS.jpeg)
-![Drawing Experience Generator Printer](/process/paper-prototyping/20231030_092805427_iOS.jpeg)
+![Little Cute Copilot](/process/2023-10-26/20231026_115851675_iOS.jpeg)
+![Tamagotchi-like Drawing Experience Generator](/process/2023-10-26/20231026_115932319_iOS.jpeg)
+![Drawing Experience Generator Printer](/process/2023-10-30/20231030_092805427_iOS.jpeg)
 
 ## The First Concept
 After the experimentation, it was time to form a first Concept.
@@ -94,7 +94,7 @@ Thinking of personalities like Dreamy, A bit too much, Spy, Cheerleader.
 ## How can the machine function?
 1. Turn the machine on (wake it up) by tapping at the top.
 
-![Alt text](/process/paper-prototyping/20231030_092858617_iOS.jpeg)
+![Alt text](/process/2023-10-30/20231030_092858617_iOS.jpeg)
 
 2. By that, I communicate the level of stress I'm feeling right now.
 3. The machine gives me a prompt to draw with a WHAT and a HOW.
