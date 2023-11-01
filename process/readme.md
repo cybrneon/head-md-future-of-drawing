@@ -38,9 +38,9 @@ One of the other interessting aspects is the fact that one person talked about h
 Others talked about how they hate temporary solutions, which is understandable because I don't like them either.
 
 #### Some Images
-![String Art](/process/2023-10-19/20231019_123334001_iOS.jpeg)
-![String Art](/process/2023-10-19/20231019_123512933_iOS.jpeg)
-![Drawing with your non-dominant hand](/process/2023-10-19/20231019_130830379_iOS.jpeg)
+![String Art](/process/2023-10-19_20/20231019_123334001_iOS.jpeg)
+![String Art](/process/2023-10-19_20/20231019_123512933_iOS.jpeg)
+![Drawing with your non-dominant hand](/process/2023-10-19_20/20231019_130830379_iOS.jpeg)
 
 
 ## Aftermath of First Insights Presentation
@@ -103,3 +103,6 @@ Thinking of personalities like Dreamy, A bit too much, Spy, Cheerleader.
 - I need to challenge myself by removing text, and screens (no chatbot-like interactions)
 - Be careful not to do too much industrial design. I should focus more on the interactions.
 - The routine question is interesting and important. Need to do more research about that.
+
+# Figjam with Mind Map and Field Research
+[Click here](https://www.figma.com/file/ohNOqJvYwTzFk34S5s9SKd/Atelier-MD1---Mind-Map-%2B-Field-Research?type=whiteboard&node-id=93%3A457&t=TbDTdXIz9qEikPVk-1)
