@@ -1,8 +1,6 @@
 # The Process
 
-## Goal
-I started researching the subject of everyday stress, stress in general, chronic stress, its reaction on the body. I also red people's questions and answers on Reddit for when people ask about how can they manage stress, in which people usually detail their stress relief methods to others.
-Then, I looked at alternative drawing techniques, to tackle everyday stress.
+> <em>Trust the process <em>
 
 ## Table of Contents
 Take a look at my process here:
