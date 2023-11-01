@@ -4,8 +4,6 @@
 I started researching the subject of everyday stress, stress in general, chronic stress, its reaction on the body. I also red people's questions and answers on Reddit for when people ask about how can they manage stress, in which people usually detail their stress relief methods to others.
 Then, I looked at alternative drawing techniques, to tackle everyday stress.
 
-So here are some drawing techniques and how they help. Some different and more expressive with the body than others.
-
 ## Drawing Experiences
 ### Unusual Drawing Experiences
 - Drawing with your hands in the air
