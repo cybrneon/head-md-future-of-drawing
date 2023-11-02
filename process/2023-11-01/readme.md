@@ -1,4 +1,4 @@
-# This Morning's Experiments
+# Today's Experiments
 
 Subjects have to draw one card from the WHAT and another from the HOW card stacks.
 | WHAT | HOW |
@@ -63,10 +63,3 @@ The experience was supercharged with Douglas laughing at Alexia's unmatched spac
 - I need to create a storytelling tool for me so I can control the story and provide adequate questions to the subject when the experiment is running.
 - I have the role of the AI currently, but I can also let the AI decide and 'délirer' over the storytelling that the person chooses.
 - I also should have an ending or a resolution at the end (Can be part of the scenario).
-
-<br>
-
-# This Afternoon's Work
-
-## Subject A
-### Before
