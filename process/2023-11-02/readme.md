@@ -6,3 +6,17 @@ I'm currently working on it on the [Figjam Board](https://www.figma.com/file/ohN
 
 # THE Naration
 The goal is to take a trip into an other world and coming back to the real world, feeling better.
+
+# GMeet with Douglas
+The idea of a guide, l'accompagnement, (I tought about Matrix) Morpeus qui accompagne les gens, Orphée qui s'occupe du royaume des morts (mythologie greque), is pretty interesting.
+
+I'm not going to cure people, but I'm gonna nudge them, support them.
+
+I just have to be careful not to ask a lot of people, all while pushing them into their immaginary (just like Morpheus).
+
+I can do A/B testing with people, using two different scenarios.
+, but I quickly need to try and experiment with people.
+
+The idea of cards now is not super important, I need to focus on the intention that I communicate to people.
+
+For the presentation with CdA in two weeks, I can develop the current "Draw a map of a city" scenario but can do another just to give an example, so the jurys can understand.
