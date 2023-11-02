@@ -10,4 +10,4 @@ Take a look at my process here:
 ### [- Paper Prototypes Experimentation (2023-10-26)](/process/2023-10-26/)
 ### [- First Concept and Prototype (2023-10-30)](/process/2023-10-30/)
 ### [- Interviews and Interaction Testing (2023-11-01)](/process/2023-11-01/)
-### [- ??? (2023-11-02)](/process/2023-11-02/)
+### [- Working on Naration (2023-11-02)](/process/2023-11-02/)
