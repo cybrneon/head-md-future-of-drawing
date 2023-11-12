@@ -9,7 +9,7 @@ Thinking of personalities like Dreamy, A bit too much, Spy, Cheerleader.
 ## Important Insights
 **Routine:** Setting up a routine in the morning or afternoon can be beneficial. Ex: Doing an exercise for 5min in the morning or before bed.
 **Stress Level Rating:** Listening to the user's stress level and providing the adequate solution as a drawing experience.
-**Positive Comments:** Reassuring the user doint that he's drawing nicely, and maybe provide comments and suggestions (always positive).
+**Positive Comments:** Reassuring the user that he's drawing nicely, and maybe provide comments and suggestions (always positive).
 **A box:** A small device that can be put in a living room and blend with its space. Ex: Hi-Fi, TV, Clock, Books, Game console, ...
 **Interactions:**
 - Tap to wake? at the top?
