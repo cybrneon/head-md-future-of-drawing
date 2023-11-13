@@ -5,7 +5,7 @@
 ### Pitch
 (Name goes here) is a stimulating creative AI assistant that seamlessly integrates with your morning routine with the goal of reducing daily stress using spatial drawing.
 <br>
-You can start the device in the morning, at home; before going to school or work, or just after waking up. It's up to you to setup your own routine.
+You can use the device in the morning, at home; before going to school or work, or just after waking up. It's up to you to setup your own routine.
 <br>
 The experience is a complete _voyage_, while having your eyes closed,  into another world. After this 3-5min trip, you're taken back to Earth, or real life.
 <br>
@@ -27,7 +27,7 @@ The assistant that picked the cards for you will comment and ask questions at th
     - Is there a smell or particular odor you have in mind?
 6. At the end of the countdown and the experience, the display shows the final drawing, and the user has the option to save it.
 7. The user should feel better. If not, the experience can be relaunched.
-8. The assistant says goodbye and turns off.
+8. The assistant says goodbye and turns OFF.
 
 ### Key Insights
 **Routine:** Setting up a routine in the morning or afternoon can be beneficial. Ex: Doing an exercise for 5min in the morning or before bed.
