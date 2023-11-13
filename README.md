@@ -1,5 +1,9 @@
 ![Monday's Sketches](/misc/two-business-people-fighting.png)
 
+> [!WARNING]  
+> This page is still a WIP!
+
+
 # (Insert Name Here)
 (Name goes here) is a stimulating creative AI assistant that seamlessly integrates with your morning routine with the goal of reducing daily stress using spatial drawing and storytelling.
 <br>
@@ -8,7 +12,6 @@ This project is the result of a semester workshop on drawing at the Master Media
 <br>
 With Alexia Mathieu, Douglas Edric Stanley, Laure Krayenbühl and Pierre Rossel.
 
-__This page is still a WIP!__
 
 ## [**Process**](/process/)
 Checkout the whole process for the project from the early beginnings to the paper prototypes!
