@@ -3,4 +3,4 @@ We then started to imagine interactions and paper experiments with our subjects.
 
 ![Little Cute Copilot](/process/2023-10-26/20231026_115851675_iOS.jpeg)
 ![Tamagotchi-like Drawing Experience Generator](/process/2023-10-26/20231026_115932319_iOS.jpeg)
-![Drawing Experience Generator Printer](/process/2023-10-30/20231030_092805427_iOS.jpeg)
+![Drawing Experience Generator Printer](/process/2023-10-26/20231030_092805427_iOS.jpeg)
