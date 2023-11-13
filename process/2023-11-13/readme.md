@@ -62,7 +62,7 @@ Think of the material
 <br>
 
 # The Pitch (WIP)
-(Name goes here) is a stimulating creative AI assistant that seamlessly integrates with your morning routine with the goal of reducing daily stress using spatial drawing.
+(Name goes here) is a stimulating creative AI assistant that seamlessly integrates with your morning routine with the goal of reducing daily stress using spatial drawing and storytelling.
 <br>
 You can use the device in the morning, at home; before going to school or work, or just after waking up. It's up to you to setup your own routine.
 <br>
