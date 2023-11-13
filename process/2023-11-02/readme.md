@@ -8,7 +8,7 @@ I'm currently working on it on the [Figjam Board](https://www.figma.com/file/ohN
 The goal is to take a trip into an other world and coming back to the real world, feeling better.
 
 # GMeet with Douglas
-The idea of a guide, l'accompagnement, (I tought about Matrix) Morpeus qui accompagne les gens, Orphée qui s'occupe du royaume des morts (mythologie greque), is pretty interesting.
+The idea of a guide, l'accompagnement, (I thought about Matrix) Morpeus qui accompagne les gens, Orphée qui s'occupe du royaume des morts (mythologie greque), is pretty interesting.
 
 I'm not going to cure people, but I'm gonna nudge them, support them.
 
