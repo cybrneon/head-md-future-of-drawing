@@ -5,7 +5,7 @@
 
 
 # Project Morpheus
-Project Morpheus is a stimulating creative AI assistant that seamlessly integrates with your morning routine with the goal of reducing daily stress using spatial drawing and storytelling.
+Project Morpheus is a stimulating creative AI assistant that seamlessly integrates with your morning routine with the goal of escaping reality for a moment using drawing and storytelling.
 <br>
 <br>
 This project is the result of a semester workshop on drawing at the Master Media Design, HEAD-Genève.

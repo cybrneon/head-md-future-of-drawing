@@ -79,7 +79,7 @@ The assistant that picked the cards for you will comment and ask questions at th
 2. The assistant will randomly select one WHAT and one HOW card and display them for the user.
 3. The assistant asks the user to wear a small device on their finger, close their eyes and get ready for a 3 to 5 minutes countdown.
 4. The user begins drawing in the air with the sensor on its finger, according to the WHAT and HOW cards that were picked.
-5. At the same time, the assistant will give comments and ask questions in real time. If the user picked the "Draw a Map of a City" card, the questions could range be:
+5. At the same time, the assistant will give comments and ask questions in real time. If the user picked the "Draw a Map of a City" card, the questions could be:
     - What Time is it?
     - How are people dressed?
     - Is there a smell or particular odor you have in mind?
