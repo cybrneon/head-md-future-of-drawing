@@ -17,9 +17,10 @@ A template? okay I hope it's not going to be boring with CdA people.
 I really hope we can do our own presentations with our own designs at the end of the project.
 
 # Trying the storytelling experience on a psychologist friend
-She liked it and found it very interesting!
-<br>
-I'm gonna post pictures tomorrow, but today was exhausting, I think I'm feeling sick...
+She liked it and found it very interesting. She also gave me different and interesting insights.
+
+![Subject 1](/process/2023-11-14/IMG_6366.jpeg)
+
 <br>
 <br>
 
