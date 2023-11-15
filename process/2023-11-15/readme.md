@@ -2,7 +2,7 @@
 Today I will focus on working on the presentation.
 
 > [!NOTE]  
-> [A PDF version with images can be found here.](/presentations/concept-presentation-2023-11-16/HEAD-MD1_Caran-d-Ache_Adam-Chatir_Project-Morpheus.pdf)
+> A PDF version with images can be found [here.](/presentations/concept-presentation-2023-11-16/HEAD-MD1_Caran-d-Ache_Adam-Chatir_Project-Morpheus.pdf)
 
 ## The Pitch
 Project Morpheus is a stimulating creative AI assistant that seamlessly integrates with your morning routine with the goal of reducing daily stress using drawing and storytelling.
