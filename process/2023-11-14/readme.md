@@ -72,3 +72,6 @@ I also did cleaner paper prototypes ready for the CdA presentation.
 ![Paper Prototype](/process/2023-11-14/IMG_6370.jpeg)
 ![Paper Prototype](/process/2023-11-14/IMG_6371.jpeg)
 
+# Sketches
+![Sketch Page 1](/process/2023-11-14/Sketcches_scan_CdA_Page_1_Image_0001.png)
+![Sketch Page 2](/process/2023-11-14/Sketcches_scan_CdA_Page_2_Image_0001.png)
