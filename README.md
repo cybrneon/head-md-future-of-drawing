@@ -10,7 +10,7 @@ Project Morpheus is an AI assistant that narrates stories to you while drawing w
 <br>
 This project is the result of a semester workshop on drawing at the Master Media Design, HEAD-Genève.
 <br>
-With Alexia Mathieu, Douglas Edric Stanley, Laure Krayenbühl and Pierre Rossel.
+With Alexia Mathieu, Douglas Edric Stanley, Laure Krayenbühl, Pierre Rossel and Pablo Bellon.
 
 
 ## [**Process**](/process/)
