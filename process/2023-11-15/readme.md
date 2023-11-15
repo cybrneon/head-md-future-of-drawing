@@ -7,7 +7,7 @@ Today I will focus on working on the presentation.
 ## The Pitch
 Project Morpheus is an AI assistant that narrates stories to you while drawing with your eyes closed.
 <br>
-Each time you turn on the device by lifting the pen, you’re guided by the assistant into a random virtual world where the assistant narrates a story to you.
+Each time you turn on the device by lifting the pen from the device, you’re guided by the assistant into a virtual world where a story is narrated to you.
 <br>
 Each day, you get one episode to draw and each episode can be part of a series, just like a Netflix series, creating a ritual of drawing every day.
 <br>
