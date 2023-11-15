@@ -64,3 +64,11 @@ In terms of form and shape, Laure gave me some interesting references:
 6. At the end of the countdown, the assistant asks the user to open their eyes.
 7. The user now sees their drawing in front of them.
 8. The assistant says goodbye and turns OFF.
+
+## New paper prototypes
+I also did cleaner paper prototypes ready for the CdA presentation.
+![Paper Prototype](/process/2023-11-14/IMG_6368.jpeg)
+![Paper Prototype](/process/2023-11-14/IMG_6369.jpeg)
+![Paper Prototype](/process/2023-11-14/IMG_6370.jpeg)
+![Paper Prototype](/process/2023-11-14/IMG_6371.jpeg)
+
