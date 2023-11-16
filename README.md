@@ -23,4 +23,4 @@ To be written.
 To be written.
 
 ## [**Presentations**](/presentations/)
-To be written.
+Just finished the concept presentation.

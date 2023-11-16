@@ -17,3 +17,11 @@ It was kind of a challenging and new way of thinking that we learned, and it was
 I'm probably scared about the part where we'll do electronics, even tho I'm interested in that. I'm scared of the courses and tutorials being too technical and less creative, but we'll see. I already had a course with Pierre, so I know it's going to be fun.
 <br>
 I'm also tired because I'm finishing this phase with a cold or something.
+
+## Getting ahead of the curve
+Thinking about the inputs and ouputs I have, in groups.
+##### INPUT
+Button or Detector for the pen in the pen holder
+
+##### OUTPUT
+Speaker
