@@ -8,7 +8,7 @@
 Project Morpheus is an AI assistant that narrates stories to you while drawing with your eyes closed.
 <br>
 <br>
-This project is the result of a semester workshop on drawing at the Master Media Design, HEAD-Genève.
+This project is the result of a semester workshop on drawing at the Master Media Design, [HEAD-Genève.](https://www.hesge.ch/head/formations-recherche/master-en-media-design)
 <br>
 With Alexia Mathieu, Douglas Edric Stanley, Laure Krayenbühl, Pierre Rossel and Pablo Bellon.
 
