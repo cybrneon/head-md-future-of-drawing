@@ -14,13 +14,13 @@ With Alexia Mathieu, Douglas Edric Stanley, Laure Krayenbühl, Pierre Rossel and
 
 
 ## [**Process**](/process/)
-Checkout the whole process for the project from the early beginnings to the paper prototypes!
+Checkout the whole process for the project from the early beginnings to the establishement of the concept.
 
 ## [~~**Form**~~ (not yet started)](/form/)
-To be written.
+Design of the object's shape.
 
 ## [~~**Electronics**~~ (not yet started)](/electronics/)
-To be written.
+Beep beep boo boo boop.
 
 ## [**Presentations**](/presentations/)
 Just finished the concept presentation.
