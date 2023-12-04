@@ -1,3 +1,6 @@
 # It's been a while since the last commit...
 
 We had fun with Arduino, and discovered a lot. It's still a bit too technical, but I hope it will be okay.
+
+## Pictures
+I will add pictures soon.
