@@ -46,3 +46,7 @@
 - Old Times
 - Futuristic Stories
 - StellarAI's take on the world
+
+## Preparing for Test Day
+- Session 1: Interaction
+- Session 2: A/B testing of two stories.
