@@ -5,6 +5,7 @@
 ### Form
 - 3D Modeling (Fusion360) of 1 object
     - 1 box composed of 3 Bodies (Pen Holder + Speaker + Computer Base)
+    - 210mm x 80mm x 80mm
 - Exhibition Table/structure?
 
 ### Materials
@@ -25,7 +26,7 @@
             - Speaker
             - Adafruit I2S 3W Stereo Speaker Bonnet for Raspberry Pi
 - Dimensions
-    - Raspberry Pi Zero 2 W: 65mm x 30mm
+    - Raspberry Pi Zero 2 W: 65mm x 30mm (+Height of around 35mm)
 - Wiring
 - Power
 - APIs?
