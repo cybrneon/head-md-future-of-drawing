@@ -9,8 +9,8 @@
 - Exhibition Table/structure?
 
 ### Materials
-- 3D Printing
-- Metal
+- 3D Printing (Speaker + Computer Base)
+- Metal (Pen Holder)
 
 ### Electronics
 - Raspberry Pi Zero 2 W
