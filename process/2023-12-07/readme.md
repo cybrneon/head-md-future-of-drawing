@@ -3,13 +3,13 @@
 ## All the steps to build the thing
 
 ### Form
-- 3D Modeling (Fusion360)
-    - Tools
+- 3D Modeling (Fusion360) of 1 object
+    - 1 box composed of 3 Bodies (Pen Holder + Speaker + Computer Base)
+- Exhibition Table/structure?
 
 ### Materials
 - 3D Printing
 - Metal
-- Fasteners
 
 ### Electronics
 - Raspberry Pi Zero 2 W
