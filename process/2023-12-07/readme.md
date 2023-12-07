@@ -28,7 +28,7 @@
 - Dimensions
     - Raspberry Pi Zero 2 W: 65mm x 30mm (+Height of around 35mm)
 - Wiring
-- Power
+- Power (wall adapter)
 - APIs?
 
 
