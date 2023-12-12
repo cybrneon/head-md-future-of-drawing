@@ -31,3 +31,31 @@ Here's a compilation of all the materials I saw there:
 ![Img1](/process/2023-12-12/WhatsApp%20Image%202023-12-12%20at%2014.30.58.jpeg)
 ![Img1](/process/2023-12-12/WhatsApp%20Image%202023-12-12%20at%2014.30.58_1.jpeg)
 ![Img1](/process/2023-12-12/WhatsApp%20Image%202023-12-12%20at%2014.30.59.jpeg)
+
+## Preparing for Test Day (D-2)
+
+For the test day, I'm thinking of testing two stories and see what people like more, how they react to them, how inspired they are, etc.
+
+Now I'm asking myself, what can I test on people who never seen or heard of the project?
+<br>
+-Stories.
+<br>
+What stories?
+<br>
+I can probably test the speed of the narration? like if there are blanks in between and if there are not?
+<br>
+I can also test with a voice synthesis and a recorded one?
+
+### Story 1
+Once upon a time, a river.
+<br>
+Rolling down the Akira Mountains, north of Selestia.
+<br>
+At the end of the river, a small village, built by a couple after they encountered diamonds in the river.
+<br>
+And this is why the river is called the Diamond River.
+<br>
+The couple, named Gigi governed the small village for a few years now, they have their own palace.
+<br>
+North of the village, a cook and shopkeeper, always ready to delight and make everyday special for the inhabitants of the village, by cooking a delicious stew for instance!
+<br>
