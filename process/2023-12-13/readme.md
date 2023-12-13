@@ -108,3 +108,6 @@ Little did she know that this seemingly ordinary evening held the promise of une
 
 # Other Stuff
 I've been thinking of a name for my project because I kept the project name "Morpheus Project". It's a project name, but I want a really cool name for my device and assistant. Why not keep Morpheus? or find another name?
+
+I also tested 3d printing!
+![Img](/process/2023-12-13/3d_print_test.jpeg)
