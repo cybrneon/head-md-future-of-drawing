@@ -53,9 +53,12 @@ Rolling down the Akira Mountains, north of Selestia.
 <br>
 At the end of the river, a small village, built by a couple after they encountered diamonds in the river.
 <br>
-And this is why the river is called the Diamond River.
+And this is why the river is called the Marvelous Diamond River.
 <br>
-The couple, named Gigi governed the small village for a few years now, they have their own palace.
+The couple, named Gigi governed the small village for a few years now, they even have their own palace.
 <br>
-North of the village, a cook and shopkeeper, always ready to delight and make everyday special for the inhabitants of the village, by cooking a delicious stew for instance!
+Each year, the tradition states that every first of the month at 3PM, people run from the north to the south of the village, following the river, and dive into the Clear Blue Diamond Lake.
 <br>
+North of the village, a cook and shopkeeper, always ready to delight and make everyday special for the inhabitants of the village. By cooking a delicious stew for instance!
+<br>
+A few steps from the shopkeeper, a carpenter, who's only job is to build houses for the many new comers to the village.
