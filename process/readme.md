@@ -14,8 +14,7 @@ Take a look at my process here:
 ### [- Preping for Monday (2023-11-12)](/process/2023-11-12/)
 ### [- Defining an Identity for the physical object (2023-11-13)](/process/2023-11-13/)
 ### [- Defining an Identity for the physical object PART 2 (2023-11-14)](/process/2023-11-14/)
-### [- -1 Before Concept Presentation (2023-11-15)](/process/2023-11-15/)
-<<<<<<< HEAD
+### [- 1 Day Before Concept Presentation (2023-11-15)](/process/2023-11-15/)
 <br>
 
 # Phase 4
@@ -26,6 +25,3 @@ Take a look at my process here:
 ### [- Progress of the day](/process/2023-12-12/)
 ### [- Test Day Prep](/process/2023-12-13/)
 ### [- Test Day!!!!](/process/2023-12-14/)
-=======
-### [- The Day (2023-11-16)](/process/2023-11-16/)
->>>>>>> parent of 233010a (wednesday morning work)
