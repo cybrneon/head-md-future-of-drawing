@@ -38,3 +38,8 @@ One last note, having two modes is not a bad idea. Like a direct mode that speak
 
 #### Second Story Output
 ![](/process/2023-12-14/testday_afternoon_2.jpeg)
+
+## Quick Talk with Laure before the end of the day
+We quickly talked about the shape realization in metal.
+But also, about the aluminium spray I wanted to do, to mimic real aluminium or metal.
+Laure gave me a big no, because it doesn't end up like you want it to end up, soooo I'll obey and trust Laure on that 🫡.
