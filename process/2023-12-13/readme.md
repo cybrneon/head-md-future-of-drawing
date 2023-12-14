@@ -2,14 +2,14 @@
 
 ## Call with Douglas
 We need to have goals. I need to ask questions for me.
-> I'm thinking probably testing one story reading it with pauses and seeing how people react and absorb the information to end up drawing. And the same story where I read it in a go without pauses?
+> I'm thinking probably testing one story reading it with pauses and seeing how people react and absorb the information to end up drawing. And the same story where I read it in a go without pauses? 
 
 This is too subtle!
 <br>
 I need to see the nature of the story
 How much information I give to the user, How much I give to the person that's going to draw.
 
-## Story 1 - original
+## Story 1
 Once upon a time, a river.
 <br>
 <br>
@@ -35,34 +35,6 @@ That day in the crowd, a person by the name of Ash just finished their run and d
 <br>
 <br>
 Ash came to the lakeside with their dog, Ruffus.
-
-## Story 1 - variation 1 (detailed with Bard)
-
-In the heart of the majestic Akira Mountains, nestled amidst the snow-capped peaks and verdant valleys, flowed a magnificent river, its waters shimmering like a cascade of diamonds. This was the marvelous Diamond River, a source of wonder and fascination for the people of Selestia, the land that lay north of its meandering course.
-<br>
-<br>
-Legends whispered of its magical origins, tales of a couple who stumbled upon its crystal-clear depths, discovering amidst the swirling currents a treasure of untold value – diamonds, embedded within the riverbed like glittering stars. Enthralled by their discovery, the couple established a small village at the river's end, naming it Diamond Village in honor of its precious namesake.
-<br>
-<br>
-Over the centuries, the village grew in prosperity, its inhabitants living in harmony with the river's bounty. The villagers, guided by the wisdom of their ancestors, established a tradition that echoed the river's magical essence. Every first of the month, at the precise hour of three in the afternoon, they would embark on a grand procession, traversing the length of the village, following the river's winding path.
-<br>
-<br>
-Upon reaching the Clear Blue Diamond Lake, a mesmerizing body of water that mirrored the heavens, the villagers would plunge into its depths, their hearts filled with anticipation. The lake, as if responding to their collective desire, would reveal its hidden treasures, scattering diamonds across the surface like a shower of celestial sparks.
-<br>
-<br>
-This extraordinary spectacle drew visitors from far and wide, each hoping to witness the magical transformation and perhaps claim a diamond of their own. From the bustling streets of distant cities to the tranquil shores of neighboring kingdoms, people journeyed to Diamond Village, their eyes sparkling with excitement and a touch of disbelief.
-<br>
-<br>
-On this particular first of the month, a young woman named Ash joined the throng of eager participants. Ash, accompanied by her loyal canine companion, Ruffus, had traveled from a distant land, her heart filled with a mix of curiosity and determination. She had heard tales of the Marvelous Diamond River and the village that lay at its end, tales of wonder and enchantment that had captured her imagination.
-<br>
-<br>
-As the procession reached the Clear Blue Diamond Lake, Ash and Ruffus joined the mass of divers, their bodies plunging into the cool, refreshing waters. Around them, the air was filled with a collective gasp as the surface of the lake ignited with a dazzling display of diamonds, their brilliance reflecting the sun's radiant rays.
-<br>
-<br>
-With hearts pounding and eyes wide with excitement, Ash and Ruffus emerged from the lake, their hands clutching their newfound treasures. Ash's heart swelled with joy as she held the sparkling diamond, its facets twinkling like a constellation of stars. She had not only witnessed the magic of the Marvelous Diamond River but had also become part of its enduring legend.
-<br>
-<br>
-As the villagers celebrated their victory, Ash and Ruffus sat by the lakeside, savoring their newfound wealth and the memories of their extraordinary adventure. The sun began to set, casting a warm glow over the village and the majestic Akira Mountains, a perfect ending to a day filled with wonder and enchantment.
 
 ### -> Asking Bard to keep going with this story beggining
 Ash and Ruffus were walking along the river bank, enjoying the cool breeze and the beautiful scenery of the Akira Mountains. The water in the river was crystal clear and sparkled in the sunlight, reflecting the lush green trees that lined the banks. Ash was lost in thought, thinking about the upcoming diamond dive. She had heard stories about people finding huge diamonds in the Clear Blue Diamond Lake, and she couldn't help but feel a little excited about the possibility of being one of them.
@@ -108,6 +80,3 @@ Little did she know that this seemingly ordinary evening held the promise of une
 
 # Other Stuff
 I've been thinking of a name for my project because I kept the project name "Morpheus Project". It's a project name, but I want a really cool name for my device and assistant. Why not keep Morpheus? or find another name?
-
-I also tested 3d printing!
-![Img](/process/2023-12-13/3d_print_test.jpeg)
