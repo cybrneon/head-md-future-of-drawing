@@ -1,26 +1,25 @@
 # Form
 
-> [!WARNING]  
-> Work in Progress!
-
 ## 3D model
-Here you can find my [Fusion 360 file.](/form/projectmorpheus_id.f3d)
+Here you will find my [Fusion 360 file.](/form/source/projectmorpheus_id.f3d)
 
 ## Snapshots
-![Img](/form/img/screenshot_shape1.png)
-![Img](/form/img/screenshot_shape2.png)
+![Img](/form/img/snapshot_shape1.png)
+![Img](/form/img/snapshot_shape2_wT.png)
 
 ## Parts
 A. Top Cover
 <br>
 B. Pen Holder Cylinder
 <br>
-C. Speaker Cage
+C. Speaker Cage (Hidden, covered by fabrics)
 <br>
 D. Support Base
 
 ## Materials used
-3D Printing for all parts.
+3D Printing for all parts (Atelier Prototypage).
+<br>
+The speaker cage will be covered by fabrics (I'll get at IKEA).
 
 ## Dimensions
 <b>The size of the whole structure is 220×80×80mm (H × W × L) </b>
@@ -29,6 +28,6 @@ A. 10 × 80 × 80 mm
 <br>
 B. 120 × 80 × 80 mm
 <br>
-C. 60 × 80 × 80 mm
+C. 69 × 80 × 80 mm
 <br>
 D. 30 × 80 × 80 mm
