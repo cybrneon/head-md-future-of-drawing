@@ -1,6 +1,6 @@
 # TEST DAY !!!!
 
-Today, I tester my stories to multiple three people and got interesting insights.
+Today, I tested my stories to multiple three people and got interesting insights.
 
 ## Morning
 Even tho it wasn't the best conditions (calm & alone), I tested on Narges. Luka said that it gave him the desire to draw even tho he didn't try it and just listened to me narrating the stories.
