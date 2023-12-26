@@ -3,6 +3,9 @@
 > [!WARNING]
 > Work in Progress!
 
+#### Last Update
+2023-12-26 at 7:20pm
+
 ## 3D model
 Here you will find my [Fusion 360 file.](/form/source/projectmorpheus_id.f3d)
 And my STLs [here](/form/source/print).
@@ -10,15 +13,18 @@ And my STLs [here](/form/source/print).
 ## Snapshots
 ![Img](/form/img/snapshot_shape1.png)
 ![Img](/form/img/snapshot_shape2_wT.png)
+![Img](/form/vector/CdA_FinalSketch_Drawing.png)
 
 ## Parts
 A. Top Cover
 <br>
-B. Pen Holder Cylinder
+B. Pen Trap Detector
 <br>
-C. Speaker Cage (Hidden, covered by fabrics)
+C. Pen Holder Cylinder
 <br>
-D. Support Base
+D. Speaker Cage (Hidden, covered by fabrics)
+<br>
+E. Support Base
 
 ## Materials used
 3D Printing for all parts (Atelier Prototypage).
@@ -30,8 +36,8 @@ The speaker cage will be covered by fabrics (I'll get at IKEA).
 <br>
 A. 10 × 80 × 80 mm
 <br>
-B. 120 × 80 × 80 mm
+C. 120 × 80 × 80 mm
 <br>
-C. 69 × 80 × 80 mm
+D. 60 × 80 × 80 mm
 <br>
-D. 30 × 80 × 80 mm
+E. 30 × 80 × 80 mm
