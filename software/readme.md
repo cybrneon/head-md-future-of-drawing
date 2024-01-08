@@ -6,6 +6,7 @@ text
 ## Tutorial
 
 ### 1. Setting up the RP
+This setup applies if you're flashing and connecting from Windows. MacOS should be slightly different.
 #### Installing Rapberry Pi OS (64Bits), released on the 2023-12-05 (5dec23)
 Flashing on a SD card, and setting up settings for automatic wifi connection and SSH.
 
