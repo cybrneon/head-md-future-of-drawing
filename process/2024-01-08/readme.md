@@ -36,6 +36,12 @@ On Monday 15 Jan, 17h final version of project documentation PDF.
 
 And a big yay! I can finally present my project the way I want with a custom presentation (on top of the project documentation that will be given).
 
+## Also thinking of the AI part
+I'm trying to see how I can do what I wanted to do, easily without too much hassle.
+
+Here's a link I used to encode Base64 to mp3 for tests I got with Google's TTS.
+https://www.ipvoid.com/base64-to-mp3/
+
 ## And finally
 Because I'm sick, I'm missing a day to go see my doctor about a quite serious issue.
 But I'll still work a bit.
