@@ -11,3 +11,8 @@
 ### What's remaining
 - Finding how to hide the RPI.
 - Presentation and finish Project Documentation
+
+## Other stuff
+I also put a startup and shutdown sound to the RPI so I now if everything's going according to plan, but they don't work. Probably because the RPI initializes the GPIO at the end of the boot sequence? compared to the 3.5mm jack or HDMI.
+
+Also, the autorun for my python script runs and then cuts quickly. I need to remove and put the pen again for it to work. But that's fine for the presentation.
