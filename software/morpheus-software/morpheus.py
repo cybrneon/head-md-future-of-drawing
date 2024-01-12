@@ -5,7 +5,7 @@
 import RPi.GPIO as GPIO
 import random
 import vlc		#VLC Media Player library
-sounds = vlc.MediaPlayer("/home/pi/Desktop/Morpheus/audio/test2.mp3")		#Locating the sound and setting it as sounds
+sounds = vlc.MediaPlayer("/home/pi/Desktop/Morpheus/audio/story1.mp3")		#Locating the sound and setting it as sounds
 from time import sleep		# this lets us have a time delay (see line 15)  
 GPIO.setmode(GPIO.BCM)		# set up BCM GPIO numbering  
 GPIO.setup(4, GPIO.IN, pull_up_down=GPIO.PUD_UP)		# set GPIO4 as input (button)

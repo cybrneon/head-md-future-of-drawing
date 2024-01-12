@@ -11,6 +11,8 @@ I'm on the right track, here's what's remaining to do.
 - Software corrections and boot setup.
 - Finding how to hide the RPI.
 - Presentation and finish Project Documentation
+- Back up sd card!
+- Label the cables so I can recognize which cable is which.
 
 
 ## Other
