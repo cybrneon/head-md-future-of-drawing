@@ -25,3 +25,11 @@ Take a look at my process here:
 ### [- Progress of the day](/process/2023-12-12/)
 ### [- Test Day Prep](/process/2023-12-13/)
 ### [- Test Day!!!!](/process/2023-12-14/)
+
+# Phase 5
+### [- Talking shape with Laure](/process/2023-12-20/)
+### [- 3D print and Textiles](/process/2023-12-21/)
+### [- Diving Back into the Project](/process/2024-01-08/)
+### [- Software and Check-up with Douglas](/process/2024-01-11/)
+### [- Last tasks for the end of the project](/process/2024-01-12/)
+### [- ?](/process/2024-01-15/)

@@ -23,7 +23,7 @@ Ash came to the lakeside with their dog, Ruffus, who saw this newly opened resta
 
 ### #Ending
 
-## Story put into Bard
+## BARD Output
 
 <b>
 Me: Detail and develop this story
