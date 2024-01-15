@@ -1,6 +1,5 @@
 ![Project Morpheus](/misc/repo_hero.png)
 
-
 # Project Morpheus
 Introducing, Morpheus. Your new, AI-enabled, narrator and guide to a new world of unlimited possibilities.
 
@@ -12,20 +11,23 @@ With Alexia Mathieu, Douglas Edric Stanley, Laure Krayenbühl, Pierre Rossel and
 drawing, writing, drawing tools, writing tools, artificial intelligence, interaction design, storytelling objects, novel interactions, playable objects
 
 
-## [**Process**](/process/)
+### [**Process**](/process/)
 Checkout the whole process for the project from the early beginnings to the end.
 
-## [**Form**](/form/)
+### [**Form**](/form/)
 Design of the object's shape with 3d files.
 
-## [**Electronics**](/electronics/)
+### [**Electronics**](/electronics/)
 Beep beep boo boo boop with Fritzing schematics.
 
-## [**Presentations**](/presentations/)
+### [**Presentations**](/presentations/)
 Presentations from the concept to the final presentation.
 
-## [**Software**](/software/)
-Morpheus's Python script and files.
+### [**Software**](/software/)
+Morpheus's Python script and files + tutorial on how to set up RPI.
 
-## [**Story**](/story/)
+### [**Story**](/story/)
 One Story, its parameters and AI Output.
+
+## Thanks
+Thanks to the teacher's dedication, help and motivation throughout the project.

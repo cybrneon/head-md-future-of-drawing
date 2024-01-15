@@ -1,7 +1,7 @@
 # Software
 
 ## What I'm doing
-text
+I'm playing a sound each time the pen is removed from the pen holder, and stopping the sounds when the pen is inserted in the pen holder.
 
 ## Tutorial
 
@@ -66,5 +66,27 @@ You can also check in the terminal:
 <br>
 It will open the system sound mixer. Press F6 and select the new device.
 
-#### Installing a sound eq?
-Because the sound on the RP is so bad, why not install an eq?
+### 2. Enabling autostart
+To enable a python script automatically at startup, you need to create a folder inside of home/pi/.config called `autostart`, where you'll put a file called `something.desktop` (the something can be replaced by what you want to call the file).
+
+Open the file, and paste this inside:
+
+[Desktop Entry]
+<br>
+Encoding=UTF-8
+<br>
+Type=Application
+<br>
+Name=<Something>
+<br>
+Comment=
+<br>
+Exec= python /home/pi/desktop/Morpheus/morpheus.py (here you can put the link to your python exec)
+<br>
+StartupNotify=false
+<br>
+Terminal=True
+<br>
+Hidden=False
+
+And it's done! Now reboot and the python program should autostart.

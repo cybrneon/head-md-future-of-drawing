@@ -1,9 +1,7 @@
 # Form
 
-> [!WARNING]
-> Work in Progress!
-
-#### Last Update: 2023-12-27 at 6:50pm
+> [!INFO]
+> Last Update: 2023-12-27 at 6:50pm
 
 ## 3D model
 Here you will find my [Fusion 360 file.](/form/source/projectmorpheus_id.f3d)
@@ -28,7 +26,7 @@ E. Support Base
 ## Materials used
 3D Printing for all parts (Atelier Prototypage).
 <br>
-The speaker cage will be covered by fabrics (I'll get at IKEA).
+The speaker cage is covered by fabrics (Linen).
 
 ## Dimensions
 <b>The size of the whole structure is 220×80×80mm (H × W × L) </b>
